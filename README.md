@@ -1,2 +1,2 @@
 # Toy Projects
-1. Textbook Projects
+1. Textbook Solutions
