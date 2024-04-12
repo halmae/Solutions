@@ -1,2 +1,2 @@
-# Projects
-Toy Projects
+# Toy Projects
+1. Textbook Projects
